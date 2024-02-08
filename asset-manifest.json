@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78740d68.css",
+    "main.js": "/static/js/main.99094da8.js",
+    "static/media/hero.png": "/static/media/hero.731474bd2d766824362c.png",
+    "static/media/paul-smith-Sz0kMDeDUc0-unsplash.jpg": "/static/media/paul-smith-Sz0kMDeDUc0-unsplash.002412ee554cd5e29831.jpg",
+    "static/media/23.png": "/static/media/23.10d54f9e8b04042d84e8.png",
+    "static/media/30.png": "/static/media/30.672f2193800879a2f3cb.png",
+    "static/media/24.png": "/static/media/24.db2a0c43a7dbe37da2d5.png",
+    "static/media/25.png": "/static/media/25.94bef4fead835e9b27e7.png",
+    "static/media/26.png": "/static/media/26.a862af140dbbdf0f9e81.png",
+    "static/media/img-2-1200x1000.jpg": "/static/media/img-2-1200x1000.50ec8039203082c41886.jpg",
+    "static/media/43.png": "/static/media/43.dfb4209598bbb8bc854d.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/features.png": "/static/media/features.6478b1f1ae579b66040d.png",
+    "static/media/features1.png": "/static/media/features1.961f6b9800bebefdd5aa.png",
+    "static/media/hero.svg": "/static/media/hero.b4c1ef0721c96faed75f16ebeb09f47b.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/nucleo-icons.svg": "/static/media/nucleo-icons.01ebecaf50461162d4bc.svg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/img-1-1200x1000.jpg": "/static/media/img-1-1200x1000.764f6d17de072f943b72.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/HikeyourHire2.png": "/static/media/HikeyourHire2.c268ee0127ed16c7d09f.png",
+    "static/media/Untitled-1.png": "/static/media/Untitled-1.2e74eea27270a9c7593c.png",
+    "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.19abb5402a664606b14c.eot",
+    "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.d6a66724e7a7bf1bba65.ttf",
+    "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.c82c9b7c40130b7116d3.woff",
+    "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.cba267483aa6a7cb6e33.woff2",
+    "static/media/google.svg": "/static/media/google.eae9aa9354350126d1b032847835a051.svg",
+    "static/media/github.svg": "/static/media/github.6c95555646a0ecabf549179c97bf0e7d.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.78740d68.css",
+    "static/js/main.99094da8.js"
+  ]
+}
